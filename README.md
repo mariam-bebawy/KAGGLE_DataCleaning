@@ -15,5 +15,7 @@ Kaggle learning resources and tasks
 ![certificate](./01_Mariam%20Bebawy%20_Data-Cleaning-certificate.png)
 
 ***
-### Other helpful links:
-* https://github.com/Shamik-07/Data-Cleaning-Scaling-Parsing-Dates-challenge-Kaggle/blob/master/Data%20Cleaning%2C%20Scaling%2C%20Parsing%20Dates%2C%20challenge%20Kaggle.ipynb
+### Helpful links:
+* https://technocolabs-internship.gitbook.io/internship-prerequisites-learning-resources/
+* https://www.kaggle.com/learn/data-cleaning/
+* https://github.com/Shamik-07/Data-Cleaning-Scaling-Parsing-Dates-challenge-Kaggle/blob/master/Data%20Cleaning%2C%20Scaling%2C%20Parsing%20Dates%2C%20challenge%20Kaggle.ipynb/
