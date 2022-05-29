@@ -1,6 +1,6 @@
 # KAGGLE_DataCleaning
-Kaggle learning resources and tasks
--- As presented by Technocolabs Machine Leanring Internship Program
+Kaggle learning resources and tasks  
+-- As required by Technocolabs Machine Leanring Internship Program
 
 ***
 ### Notebooks exercises:
