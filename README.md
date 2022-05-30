@@ -1,5 +1,6 @@
 # KAGGLE_DataCleaning
 Kaggle learning resources and tasks  
+-- Data Cleaning
 -- As required by Technocolabs Machine Leanring Internship Program
 
 ***
@@ -12,7 +13,7 @@ Kaggle learning resources and tasks
 
 ***
 ### Certificate:
-![certificate](./01_Mariam%20Bebawy%20_Data-Cleaning-certificate.png)
+![certificate](./01_MariamBebawy_Data-Cleaning-certificate.png)
 
 ***
 ### Helpful links:
