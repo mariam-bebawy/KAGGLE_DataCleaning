@@ -1,6 +1,6 @@
 # KAGGLE_DataCleaning
 Kaggle learning resources and tasks  
--- Data Cleaning
+-- Data Cleaning  
 -- As required by Technocolabs Machine Leanring Internship Program
 
 ***
